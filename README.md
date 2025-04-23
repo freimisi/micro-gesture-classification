@@ -7,10 +7,10 @@ Classifying **micro-gestures** from image sequences using a **hybrid CNN–ResNe
 > 👨‍💻 Contributors: Omer AHMED, Mihály FREI
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20With-Python-blue?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Framework-PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Backbone-ResNet50-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cluster-CSC%20MAHTI-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Made%20With-Python-blue?style=for-the-badge&logo=python&logoColor=green">
+  <img src="https://img.shields.io/badge/Framework-PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=red">
+  <img src="https://img.shields.io/badge/Backbone-ResNet50-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cluster-CSC%20MAHTI-lightgrey?style=for-the-badge">
 </p>
 
 ---
